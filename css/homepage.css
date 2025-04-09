@@ -128,6 +128,23 @@ header img {
     transform: scale(1.1);
 }
 
+/* PRODUTOS SITE */
+
+.produtos h2{
+    text-align: center;
+    justify-content: center;
+}
+
+.produtos-container {
+    display: flex;
+    justify-content: space-between; /* Espalha os cards igualmente na linha */
+    gap: 20px; /* Espaçamento entre os cards */
+  }
+  
+  .card {
+    width: 18rem; /* Define a largura dos cards */
+  }
+
 /* RODAPÉ */
 .footer {
     background-color: #2e2e2e;
