@@ -68,9 +68,10 @@ header img {
 }
 
 .pesquisa input {
+    text-align: center;
+    justify-content: center;
     width: 200px;
     height: 30px;
-    margin-left: 90vh;
     background-image: url(../img/lupa-arredondada.png);
     background-size: 24px;
     background-repeat: no-repeat;
